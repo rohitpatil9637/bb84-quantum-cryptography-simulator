@@ -215,8 +215,8 @@ export default function App() {
         <footer className="mt-8 text-center text-xs text-white/20 py-4 border-t border-white/5">
           <p>
             BB84 Quantum Key Distribution Protocol — Bennett & Brassard, 1984.&nbsp;
-            <a href="https://github.com" className="underline hover:text-white/50 transition-colors" target="_blank" rel="noopener noreferrer">
-              View on GitHub
+            <a href="https://github.com/rohitpatil9637/bb84-quantum-cryptography-simulator" className="underline hover:text-white/50 transition-colors" target="_blank" rel="noopener noreferrer">
+              View on GitHub - built by Rohit Patil.
             </a>
           </p>
           <p className="mt-1">Built with React, Three.js, Framer Motion, Recharts · MIT License</p>
