@@ -40,7 +40,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/rohitpatil4290/bb84-quantum-cryptography-simulator.git
+git clone https://github.com/rohitpatil9637/bb84-quantum-cryptography-simulator.git
 cd bb84-quantum-cryptography-simulator
 npm install --legacy-peer-deps
 npm run dev
